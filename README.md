@@ -26,7 +26,7 @@ Data analyst with 3 years of experience skilled in SQL, Python, data analysis/vi
 
 <b>My GitHub Stats</b>
 
-<a>
+<a href="http://www.github.com/sharma-nikhil06">
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sharma-nikhil06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
