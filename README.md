@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Data analyst with 3 years of experience skilled in SQL, Python, data analysis/visualization, statistics, and developing actionable insights to drive strategic decision-making.
+Data analyst with 3 years of experience skilled in SQL, Python, R, data analysis/visualization, statistics, and developing actionable insights to drive strategic decision-making.
 
 * 🌍  I'm based in Grand Rapids, Michigan
 * ✉️  You can contact me at [sharma.nikhil0607@gmail.com](mailto:sharma.nikhil0607@gmail.com)
