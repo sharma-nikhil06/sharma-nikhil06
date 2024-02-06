@@ -38,5 +38,4 @@ Data analyst with 3 years of experience skilled in SQL, Python, R, data analysis
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sharma-nikhil06&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </a>
